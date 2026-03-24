@@ -12,4 +12,4 @@
 请通过 SSH 连接到您的 MT3000，然后直接复制并运行以下命令：
 
 ```bash
-wget -qO- [https://ghproxy.net/https://raw.githubusercontent.com/nancomvlog/mt3000-passwall2-oneclick/main/install.sh](https://ghproxy.net/https://raw.githubusercontent.com/nancomvlog/mt3000-passwall2-oneclick/main/install.sh) | sh
+wget -qO- https://ghproxy.net/https://raw.githubusercontent.com/nancomvlog/mt3000-passwall2-oneclick/main/install.sh | sh
